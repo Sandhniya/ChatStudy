@@ -1,4 +1,9 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
+```
+NAME: SANDHIYA SREE B
+ROLL NO:212223220093
+DEPARTMENT:INFORMATION TECHNOOGY
+```
 
 ## Aim: 
 To perform a study on Client Server Chat Applications
